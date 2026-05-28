@@ -1,0 +1,3 @@
+input()
+s = 0
+for x in map(int, input().split()):s+=x;print(int(s))
