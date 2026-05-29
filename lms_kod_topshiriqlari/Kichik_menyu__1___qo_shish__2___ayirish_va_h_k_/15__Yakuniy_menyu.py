@@ -1,0 +1,8 @@
+a, b = map(int, input().split())
+c = int(input())
+d = int(input())
+if a == 2: print(a + b)
+elif a == 5: print(a - b)
+elif a == 3: print(a * b)
+elif a == 10: print(float(a / b))
+print("Exit")
