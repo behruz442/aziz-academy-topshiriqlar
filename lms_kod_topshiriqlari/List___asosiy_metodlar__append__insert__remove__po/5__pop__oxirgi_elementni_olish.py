@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+removed_element = lst.pop()
+print(removed_element)
+print(lst)
