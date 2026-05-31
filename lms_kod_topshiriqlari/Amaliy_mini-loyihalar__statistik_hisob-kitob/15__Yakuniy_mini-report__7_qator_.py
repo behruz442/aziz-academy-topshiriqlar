@@ -1,0 +1,8 @@
+a = list(map(int, input().split()))
+print("count:", len(a))
+print("sum:", sum(a))
+print("min:", min(a))
+print("max:", max(a))
+print("mean:", format(sum(a)/len(a), ".2f"))
+print("evens:", sum(x % 2 == 0 for x in a))
+print("odds:", sum(x % 2 != 0 for x in a))
