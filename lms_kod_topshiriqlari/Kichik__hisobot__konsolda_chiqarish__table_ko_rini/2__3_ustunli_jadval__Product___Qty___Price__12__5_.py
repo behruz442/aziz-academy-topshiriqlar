@@ -1,0 +1,7 @@
+n = int(input())
+print(f"{'Product':<12} | {'Qty':>5} | {'Price':>7}")
+print("-"*12 + "+-----+" + "-"*7)
+
+for _ in range(n):
+    p, q, r = input().split()
+    print(f"{p:<12} | {int(q):>5} | {int(r):>7}")
