@@ -1,0 +1,1 @@
+print("Ikkalasihm (and): False, Kamide bittasi(or): True")
