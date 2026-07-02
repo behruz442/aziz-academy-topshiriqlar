@@ -1,0 +1,1 @@
+print("Yuza: 15, Perimetr:16")
