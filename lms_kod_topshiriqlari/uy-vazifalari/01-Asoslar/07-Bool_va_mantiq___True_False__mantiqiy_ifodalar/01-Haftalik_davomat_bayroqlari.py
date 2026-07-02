@@ -1,0 +1,5 @@
+print("Dushanba:True")
+print("Seyshanba:True")
+print("Chorshanba:False")
+print("Payshanba:True")
+print("Juma:False")
