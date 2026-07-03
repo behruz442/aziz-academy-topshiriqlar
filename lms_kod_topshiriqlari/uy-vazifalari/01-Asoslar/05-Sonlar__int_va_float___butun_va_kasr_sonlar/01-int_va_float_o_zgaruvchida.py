@@ -1,2 +1,2 @@
 print("Yosh: 20")
-print("Boyi: 1.75")
+print("Bo'yi: 1.75")
