@@ -1,2 +1,2 @@
-print("Matn:Aziz Academy")
-print("Belgilar soni soni: 12")
+print("Matn: Aziz Academy")
+print("Belgilar soni: 12")
