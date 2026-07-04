@@ -1,2 +1,2 @@
-print("Talaba:Aziz")
-print("To'lov qilingan:False")
+print("Talaba: Aziz")
+print("To'lov qilingan: False")
