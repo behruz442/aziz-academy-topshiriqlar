@@ -1,1 +1,4 @@
-print("True, True, False, False")
+print("True")
+print("True")
+print("False")
+print("False")
