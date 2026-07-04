@@ -1,2 +1,2 @@
-print("Faol:True")
-print("Tasdiqlangan:False")
+print("Faol: True")
+print("Tasdiqlangan: False")
