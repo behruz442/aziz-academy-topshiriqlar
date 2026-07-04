@@ -1,1 +1,2 @@
-print("Ikkalasihm (and): False, Kamide bittasi(or): True")
+print("Ikkalasi ham (and): False")
+print("Kamida bittasi (or): True")
