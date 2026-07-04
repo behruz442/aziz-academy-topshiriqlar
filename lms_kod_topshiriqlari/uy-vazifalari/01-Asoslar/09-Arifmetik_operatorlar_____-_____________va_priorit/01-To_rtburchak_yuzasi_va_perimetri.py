@@ -1,1 +1,2 @@
-print("Yuza: 15, Perimetr:16")
+print("Yuza: 15")
+print("Perimetr: 16")
