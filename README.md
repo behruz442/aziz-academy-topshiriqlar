@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **3%**  (6/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **8%**  (15/179 mavzu)
 
-- ⭐ Jami ball: **27337**
+- ⭐ Jami ball: **31605**
 - 📤 GitHubga yuborilgan topshiriqlar: **784**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Stringlar — kirish: matn, qo'shtirnoqlar, len()**
-
-➡️ Keyingi mavzu: *Bool va mantiq — True/False, mantiqiy ifodalar*
+**MODUL 1 — Asoslar** → **Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,16 +21,16 @@
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
 - ✅ Sonlar: int va float — butun va kasr sonlar
-- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()  ← yetgan joyingiz
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
-- ⬜ Solishtirish operatorlari — == != > < >= <=
-- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
-- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
-- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=
+- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ✅ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ✅ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish  ← yetgan joyingiz
 
 </details>
 
@@ -40,7 +38,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `████░░░░░░` 40% | 6/15 |
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +61,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-05 08:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-06 07:07</sub>
