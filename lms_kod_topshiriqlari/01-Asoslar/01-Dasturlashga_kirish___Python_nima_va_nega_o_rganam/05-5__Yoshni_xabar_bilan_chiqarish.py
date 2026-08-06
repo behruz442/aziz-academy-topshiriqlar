@@ -1,2 +1,5 @@
-age = input()
-print(f"Mening yoshim {age}")
+import sys
+
+yosh = sys.stdin.read().strip()
+
+print(f"Mening yoshim {yosh}")
