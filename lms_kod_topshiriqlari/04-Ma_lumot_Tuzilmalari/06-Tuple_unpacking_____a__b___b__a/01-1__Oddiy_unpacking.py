@@ -1,4 +1,4 @@
-t = tuple(map(int, input().split()))
-a, b = t
+a, b = input().split()
+
 print(a)
 print(b)
